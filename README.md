@@ -90,9 +90,9 @@ Sales-Analytics-Dashboard/
 
 ## 👤 Author
 
-**[Your Name]** — Business Analytics Student
-- LinkedIn: [your LinkedIn URL]
-- Email: [your email]
+**Rui Kaneda** — Business Analytics Student
+- LinkedIn: https://www.linkedin.com/in/ruikaneda/
+- Email: ruijkaneda@gmail.com
 
 ---
 
