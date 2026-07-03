@@ -64,22 +64,7 @@ Sales-Analytics-Dashboard/
 
 ---
 
-## 📸 Dashboard Preview
-
-<!-- ⚠️ PLACEHOLDER: Add your real screenshot here after you build the dashboard in Tableau.
-     Save the image in the /images folder (for example: images/dashboard_overview.png)
-     Then replace the line below with:  ![Dashboard Overview](images/dashboard_overview.png) -->
-
-*Dashboard screenshot will be added here.*
-
-🔗 **Live Tableau dashboard:** <!-- PLACEHOLDER: paste your Tableau Public link here after publishing -->
-
----
-
-## ✅ Key Results (Example — replace with your own verified numbers)
-
-> The figures below are realistic examples for this dataset. After you run the
-> analysis yourself, confirm each number and update it.
+## ✅ Key Results 
 
 - 📈 **~$2.3M** in total sales and **~$286K** in total profit analyzed
 - 🗺️ **West** identified as the top-performing region by sales
